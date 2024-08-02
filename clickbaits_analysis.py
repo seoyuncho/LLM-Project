@@ -1,3 +1,4 @@
+!pip install OpenAI
 import gzip
 import pickle
 import streamlit as st
